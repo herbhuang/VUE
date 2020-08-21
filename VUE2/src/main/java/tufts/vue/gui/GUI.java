@@ -1737,7 +1737,7 @@ public class GUI
             return "null";
 
         if (c instanceof Boolean)
-            return "bool:" + ((Boolean)c).booleanValue();
+            return "bool:" + (Boolean) c;
 
         if (c instanceof String)
             return c.toString();
