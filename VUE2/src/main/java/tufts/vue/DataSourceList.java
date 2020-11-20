@@ -15,6 +15,7 @@
 
 package tufts.vue;
 
+import osid.filing.CabinetEntry;
 import tufts.Util;
 import tufts.vue.gui.*;
 
