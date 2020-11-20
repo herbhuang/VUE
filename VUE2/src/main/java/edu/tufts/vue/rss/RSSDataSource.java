@@ -27,9 +27,9 @@ import java.util.Iterator;
 import java.util.List;
 import javax.swing.*;
 
-import com.sun.syndication.io.*;
-import com.sun.syndication.feed.*;
-import com.sun.syndication.feed.synd.*;
+import com.rometools.rome.io.*;
+import com.rometools.rome.feed.*;
+import com.rometools.rome.feed.synd.*;
 
 /**
  * @version $Revision: 1.21 $ / $Date: 2010-02-03 19:25:37 $ / $Author: mike $
