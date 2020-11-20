@@ -36,7 +36,7 @@ import java.awt.event.*;
 import javax.swing.tree.*;
 import javax.swing.tree.DefaultMutableTreeNode;
 
-import osid.filing.*;
+
 import tufts.oki.remoteFiling.*;
 import tufts.oki.localFiling.*;
 
