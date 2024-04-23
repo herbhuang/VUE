@@ -8,6 +8,7 @@ on:
     branches: [ master, vue4rebase ]
   pull_request:
     branches: [ master, vue4rebase ]
+  workflow_dispatch:
 
 jobs:
   build:
